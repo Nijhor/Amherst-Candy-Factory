@@ -1,5 +1,5 @@
 # Amherst-Candy-Factory
-Candy factory problem
+Project done in Operating System course
 
 <p>Amherst  candy  factory  is  preparing  up  for  Halloween  and  has  implemented  an 
 assembly  line  to  ramp  up  Halloween  candy  production.  The  assembly  line  will  be 
